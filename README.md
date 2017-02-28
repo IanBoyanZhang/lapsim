@@ -1,2 +1,2 @@
 # lapsim
-Yet another lap time simulator
+Yet another lap time simulator but for efficiency competition
